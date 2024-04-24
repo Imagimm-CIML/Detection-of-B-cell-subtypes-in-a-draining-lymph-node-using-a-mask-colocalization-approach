@@ -43,7 +43,8 @@ The colocalisation is baseb on the **multicoloc** plugin from the 3D ImageJ Suit
 4) Annotate the different areas in QuPath : _image>annotation>Create annotation_  
     Here, we annotated the whole tissue, the germinal centers (GC) , the medulla, and the GC-Medulla Interface (GMI)
 
-![image](https://github.com/Imagimm-CIML/Detection-of-B-cell-subtypes-in-a-draining-lymph-node-using-a-mask-colocalization-approach/assets/124134416/93b3abcc-37a7-42c6-8ec8-127c12171752)
+![image](https://github.com/Imagimm-CIML/Detection-of-B-cell-subtypes-in-a-draining-lymph-node-using-a-mask-colocalization-approach/assets/124134416/a14407de-ad9b-4b6c-a936-aed1ee663eed)
+
 
 
 6) Give a name for each channel (here YFP, IRF4, Bcl6, CD138)
