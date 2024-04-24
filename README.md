@@ -2,8 +2,6 @@
 
 ### Image of Lymph node 
 
-![AnnotationNoDetection_ALL](https://github.com/Imagimm-CIML/Detection-of-B-cell-subtypes-in-a-draining-lymph-node-using-a-mask-colocalization-approach/assets/124134416/1a681d57-ee00-4e22-8d6f-32ac858dc302)
-
 
 | Channel |legend |
 |-----:|-----------|
