@@ -61,7 +61,7 @@ The colocalisation is baseb on the **multicoloc** plugin from the 3D ImageJ Suit
 
 
 11) Launch the script 
-12) You can then export the final measurements as a CSV file that will contain the columns named "LabelColoc"(teh cell label in the merged image), "Nbcoloc" (number of colocalised mask for the cell), "OrderColoc"(the number representing the combination of colocalisation masks from 1 to 15)
+12) You can then export the final measurements as a CSV file that will contain the columns named "LabelColoc"(the cell label in the merged image), "Nbcoloc" (number of colocalised mask for the cell), "OrderColoc"(the number representing the combination of colocalisation masks from 1 to 15)
 
 ![image](https://github.com/Imagimm-CIML/Detection-of-B-cell-subtypes-in-a-draining-lymph-node-using-a-mask-colocalization-approach/assets/124134416/77e77ef4-42f9-451a-a5ef-afcbcd7896be)
 
